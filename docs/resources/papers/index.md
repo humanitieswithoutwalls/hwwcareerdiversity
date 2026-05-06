@@ -8,4 +8,5 @@ parent: Resources Index
 # Papers and Discussions on the Value and Practices of Career Diversity in the Humanities
 
 * [Decolonization is Not a Metaphor](assets/pdfs/decolonization.pdf) by Eve Tuck and K. Wayne Yang (2012)
+* [White Paper on the Future of the PhD in the Humanities](assets/pdfs/whitepaperfuture.pdf) by Institute for the Public Life of Arts and Ideas, McGill University (2013) 
   
