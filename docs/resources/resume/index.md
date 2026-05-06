@@ -13,3 +13,5 @@ This exercise from the Nonprofit Academy of Wisconsin guides you through creatin
 These articles define informational interviews and their value for graduate students on the job market.
 * [When, How and Why to Conduct Informational Interviews](https://www.insidehighered.com/advice/2021/01/28/advice-making-most-informational-interviews-opinion)
 This article explains the value of informational interviews and building meaningful connections as a regular and ongoing part of career and professional development.
+* [Avoiding an All-or-Nothing Approach to Your Career](https://www.insidehighered.com/advice/2022/03/28/break-down-your-work-experiences-better-career-insights-opinion)
+Derek Attig explains how to break down and mine your work experience to obtain far better insights about your needs, values, and possible futures.
