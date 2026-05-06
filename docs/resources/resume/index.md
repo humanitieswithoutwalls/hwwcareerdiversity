@@ -15,3 +15,4 @@ These articles define informational interviews and their value for graduate stud
 This article explains the value of informational interviews and building meaningful connections as a regular and ongoing part of career and professional development.
 * [Avoiding an All-or-Nothing Approach to Your Career](https://www.insidehighered.com/advice/2022/03/28/break-down-your-work-experiences-better-career-insights-opinion)
 Derek Attig explains how to break down and mine your work experience to obtain far better insights about your needs, values, and possible futures.
+* [Finding Your Purpose](assets/pdfs/purpose.pdf): A *Higher Calling* workbook for justice-oriented scholars in an unjust world by Hannah Alpert-Abrams
